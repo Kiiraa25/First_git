@@ -1,0 +1,8 @@
+body, html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    margin: 0;
+    padding: 0;
+}
